@@ -1,0 +1,1 @@
+import{n as e}from"./shots.BAj1g6rg.js";document.querySelectorAll(`[data-shots]`).forEach(t=>e(t));

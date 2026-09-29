@@ -1,0 +1,1 @@
+import{r as e}from"./env.ChiNoBrB.js";import{i as t}from"./scroll.C5UYR9Ro.js";function n(){if(!e.reduced)for(let e of document.querySelectorAll(`[data-ghost]`)){let n=e.closest(`section`)??e.parentElement;n&&t.fromTo(e,{yPercent:22,xPercent:-3},{yPercent:-38,xPercent:3,ease:`none`,scrollTrigger:{trigger:n,start:`top bottom`,end:`top -45%`,scrub:.6}})}}n();
